@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Allan Gomes
+# 🐉 Allan Gomes
 
 **`Aspirante a Full Stack`**
 
@@ -42,8 +42,6 @@ Me chamo Allan Gomes, tenho 19 anos e sou natural de Indaiatuba. Atualmente, sou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" />
 </p>
 
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
