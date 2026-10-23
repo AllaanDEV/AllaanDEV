@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Allan Gomes
 
-**`Desenvolvedora FullStack`**
+**`Aspirante a Full Stack`**
 
 Me chamo Allan Gomes, tenho 19 anos e sou natural de Indaiatuba. Atualmente, sou um desenvolvedor iniciante e aluno da Alura estudando por conta, futuramente pretendo começar uma faculdade de ADS para me aperfeiçoar no mundo da programação, e buscar cada vez mais oportunidades.
 
