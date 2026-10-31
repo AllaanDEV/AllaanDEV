@@ -58,7 +58,7 @@ Me chamo Allan Gomes, tenho 19 anos e sou natural de Indaiatuba. Atualmente, sou
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=allaandev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=allaanDEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
